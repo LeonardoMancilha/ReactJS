@@ -4,6 +4,8 @@ Essa não vai ser a forma comum que vamos utilizar pra adicionar o React, mas ne
 
 Também tenho um arquivo babel que serve para transformar um código JavaScript novo em um antigo para que funcione em navegadores antigos, mas ele também serve para um transformar um arquivo chamado JSX em arquivo JavaScript porque o JSX não consegue ser lido pelo browser então o babel vai ser o responsável por fazer essa comunicação ocorrer.
 
+<p><strong>JSX (JavaScript XML) é uma extensão de sintaxe para JavaScript que permite escrever código semelhante a HTML dentro de arquivos JavaScript, facilitando a criação de interfaces de usuário no React. Ele combina a estrutura da interface com a lógica de renderização de maneira clara e é transformado em chamadas JavaScript como React.createElement() para ser interpretado e renderizado no DOM.</strong></p>
+
 #### Os três arquivos abaixo:
 
 ```html
